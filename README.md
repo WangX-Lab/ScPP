@@ -2,7 +2,8 @@
 
 A simple and effective algorithm for recognizing cell subpopulations with specific phenotypes based on the expression profiles of phenotype-associated marker genes in bulks and single cells.
 
-<img width="1118" alt="image" src="https://github.com/WangX-Lab/ScPP/assets/54932820/e77f43bf-15ca-4f7e-ba5e-d55dac3cc1af">
+![7d25de340474ed1ab5ed1673fb1c612](https://github.com/user-attachments/assets/4bf6bdbc-83a7-4af5-aad9-efc6e8e259ed)
+
 
 
 
