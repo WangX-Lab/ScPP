@@ -157,9 +157,9 @@ DimPlot(sc, group = "ScPP", cols = c("grey","blue","red"))
 
 ```
 
-<img width="642" alt="image" src="https://github.com/WangX-Lab/ScPP/assets/54932820/1808015c-3790-4a07-ba15-411496d42d22">
 
 
+![1](https://github.com/user-attachments/assets/9c29e6b3-08b9-4e71-a30f-9f9ffa0ce1c3)
 
 
 
@@ -251,7 +251,8 @@ Idents(sc) = "ScPP"
 DimPlot(sc, group = "ScPP", cols = c("grey","blue","red"))
 ```
 
-<img width="642" alt="image" src="https://github.com/WangX-Lab/ScPP/assets/54932820/6c7dac7b-138b-41e2-9ef1-af87baff06e3">
+
+![2](https://github.com/user-attachments/assets/741db165-3aaf-4af6-99d2-de2599ecf699)
 
 
 
@@ -344,7 +345,8 @@ DimPlot(sc, group = "ScPP", cols = c("grey","blue","red"))
 
 ```
 
-<img width="642" alt="image" src="https://github.com/WangX-Lab/ScPP/assets/54932820/47404d94-abe4-485c-8657-0f5e47bc62c3">
+![3](https://github.com/user-attachments/assets/8217e4e3-4a0e-4ba4-be4b-a0df54522eee)
+
 
 
 &nbsp;
