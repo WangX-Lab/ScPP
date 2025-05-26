@@ -1,0 +1,16 @@
+Package: ScPP
+Title: Identifying single cells with specific features by using bulk data to generate feature markers.
+Version: 0.0.0.9000
+Author: Yin He, Rongzhuo Long, Xiaosheng Wang
+Maintainer: The package maintainer <yin.he@stu.cpu.edu.cn> <rongzhuoloong@hotmail.com> <xiaosheng.wang@cpu.edu.cn>
+Description: Identifying single cells from scRNA sequencing data with specific features by using bulk data to generate feature markers.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: 
+    AUCell,
+    dplyr,
+    Seurat,
+    survival
